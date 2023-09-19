@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\bin\Debug\prjWinCsCalculator.exe.config
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\bin\Debug\prjWinCsCalculator.exe
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\bin\Debug\prjWinCsCalculator.pdb
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.Calculator.resources
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.Form1.resources
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.Properties.Resources.resources
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.exe
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.pdb
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.frmScientific.resources
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.frmUserManual.resources
+C:\Users\HP\source\repos\fall2022\object_oriented\prjWinCsCalculator\prjWinCsCalculator\obj\Debug\prjWinCsCalculator.frmAbout.resources
